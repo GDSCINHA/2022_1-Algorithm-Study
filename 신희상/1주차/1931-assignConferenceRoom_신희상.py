@@ -5,7 +5,6 @@ for i in range(count):
     a, b = map(int, input().split())
     conf.append([a, b])
 
-
 conf = sorted(conf, key=lambda x: [x[1], x[0]])
 
 answer = 0
