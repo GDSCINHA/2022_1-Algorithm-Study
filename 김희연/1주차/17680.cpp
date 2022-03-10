@@ -51,7 +51,7 @@ public:
 					key = 1;
 					break;
 				}
-				num++;
+			    num++;
 			}
 		}
 		return number();
