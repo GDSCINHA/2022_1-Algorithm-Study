@@ -14,4 +14,3 @@ def solution(board, moves):
             picked = picked[:-2]
         
     return answer
- 
