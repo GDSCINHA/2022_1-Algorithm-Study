@@ -26,7 +26,6 @@ for x, y in map:
 
 x_s = set(x_d)
 y_s = set(y_d)
-print(x_s)
 x_m = min(x_s)
 y_m = min(y_s)
 array = [['' for row in range(len(y_s))] for col in range(len(x_s))]
@@ -42,5 +41,4 @@ for i in range(len(array)):
             array[i][j] = '.'
         else:
             array[i][j] = '#'
-
     print("".join(array[i]))
