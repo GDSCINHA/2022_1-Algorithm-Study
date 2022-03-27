@@ -19,12 +19,12 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/Ldj-git"><img src="https://avatars.githubusercontent.com/u/68588092?v=4" width="100px;" alt=""/><br /><sub>이동준<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="100px;" alt=""/><br /><sub>김은행<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/RealKunse"><img src="https://avatars.githubusercontent.com/u/51011193?v=4" width="100px;" alt=""/><br /><sub>신희상<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="100px;" alt=""/><br /><sub>곽성현<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/deEdenKim"><img src="https://avatars.githubusercontent.com/u/101259627?v=4" width="100px;" alt=""/><br /><sub>김서현<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hykk-git"><img src="https://avatars.githubusercontent.com/u/63403888?v=4" width="100px;" alt=""/><br /><sub>김희연<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Ldj-git"><img src="https://avatars.githubusercontent.com/u/68588092?v=4" width="100px;" alt=""/><br /><sub>이동준<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="100px;" alt=""/><br /><sub>김은행<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/RealKunse"><img src="https://avatars.githubusercontent.com/u/51011193?v=4" width="100px;" alt=""/><br /><sub>신희상<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="100px;" alt=""/><br /><sub>곽성현<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/deEdenKim"><img src="https://avatars.githubusercontent.com/u/101259627?v=4" width="100px;" alt=""/><br /><sub>김서현<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hykk-git"><img src="https://avatars.githubusercontent.com/u/63403888?v=4" width="100px;" alt=""/><br /><sub>김희연<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30" /></sub></a><br /></td>
   </tr>
 </table>
 
