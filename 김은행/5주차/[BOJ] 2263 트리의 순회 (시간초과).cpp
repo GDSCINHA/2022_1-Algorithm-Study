@@ -117,7 +117,7 @@ void preOrder(Node* node, Tree k) {
 		preOrder(node->right, k);
 	}
 }
-
+ 
 int main() {
 
 	Tree bank;
