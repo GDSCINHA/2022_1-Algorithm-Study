@@ -4,7 +4,6 @@ using namespace std;
 
 int arr[13];
 
-
 int main() {
     arr[0] = 1;
     
